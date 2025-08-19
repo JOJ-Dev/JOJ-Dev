@@ -38,7 +38,7 @@ A full-stack platform designed to simplify rental management for **landlords** a
 
 ## 📫 Let's Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/george-mwangi-a522ab350/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/georgemgichuru/)  
 - 🐦 [Portfolio](https://ggichuru.netlify.app/)  
 - 📧 Email: georgem.gichuru@gmail.com  
 
