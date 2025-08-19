@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **georgem.gichuru@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am currently a University Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
